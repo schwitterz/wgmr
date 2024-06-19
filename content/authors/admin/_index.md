@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Harald Schwefel
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Harald
+last_name: Schwefel
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Otago
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am working on Resonant Optics.
 
 interests:
   - Artificial Intelligence
